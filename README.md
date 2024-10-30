@@ -233,15 +233,15 @@ ORDER BY 2 DESC;
 ```
 ## Recomendation:
 **City 1: Pune**
-
 	1.Avg rent per customer is very less.
- 
 	2.Highest total revenue.
 	3.Avg_sale_pr_customer is also high.
+ #
 **City 2: Delhi**
-	1. Highest estimated coffee consumers which is 7.7M.
+	1. Highest estimated coffee consumers which is 7.7M.`
 	2. Highest total customer which is 68.
 	3. Avg rent per customer 330 (still under 500).
+ #
 **City 3: Jaipur**
 	1. Highest customer no. which is 69.
 	2. Avg rent per customer is very less 156.
