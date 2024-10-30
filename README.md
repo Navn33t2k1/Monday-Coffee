@@ -1,5 +1,8 @@
 # Monday-Coffee
 ![MondayCoffee](https://github.com/Navn33t2k1/Monday-Coffee/blob/main/1.png)
+# Objectives:
+The business aims to expand by opening three coffee shops in India's top three major cities. Since its launch in January 2023, the company has successfully sold its products online and received an overwhelmingly
+positive response in several cities. As a data analyst, My task is to analyze the sales data and provide insights to recommend the top three cities for this expansion.
 
 ## Schema
 ```sql
