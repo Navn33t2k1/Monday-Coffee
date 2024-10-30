@@ -238,7 +238,7 @@ ORDER BY 2 DESC;
 	* Avg_sale_pr_customer is also high.
  #
 **City 2: Delhi**
-	* Highest estimated coffee consumers which is 7.7M.`
+	* Highest estimated coffee consumers which is 7.7M.
 	* Highest total customer which is 68.
 	* Avg rent per customer 330 (still under 500).
  #
