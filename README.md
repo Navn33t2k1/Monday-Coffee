@@ -1,6 +1,5 @@
 # Monday-Coffee
 ![MondayCoffee](https://github.com/Navn33t2k1/Monday-Coffee/blob/main/1.png)
-![Objective](https://github.com/Navn33t2k1/Monday-Coffee/blob/main/2.png)
 
 ## Schema
 ```sql
@@ -234,7 +233,9 @@ ORDER BY 2 DESC;
 ```
 ## Recomendation:
 **City 1: Pune**
+
 	1.Avg rent per customer is very less.
+ 
 	2.Highest total revenue.
 	3.Avg_sale_pr_customer is also high.
 **City 2: Delhi**
