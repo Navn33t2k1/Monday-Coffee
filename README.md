@@ -39,9 +39,10 @@ rating INT,
 CONSTRAINT fk_products FOREIGN KEY (product_id) REFERENCES products(product_id),
 CONSTRAINT fk_customers FOREIGN KEY (customer_id) REFERENCES customers(customer_id)
 );
-``
+```
+### Getting Overview of dataset.
 
-
+```sql
 SELECT *
 FROM city;
 
@@ -53,6 +54,7 @@ FROM customers;
 
 SELECT *
 FROM sales;
+```
 
 --Reports  & Data Analysis.
 --1. How many people in each city are estimated to consume coffee, given that 25% of the population does?
