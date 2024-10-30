@@ -233,7 +233,7 @@ ORDER BY 2 DESC;
 ```
 ## Recomendation:
 **City 1: Pune**
-	* Avg rent per customer is very less.
+* Avg rent per customer is very less.
 	* Highest total revenue.
 	* Avg_sale_pr_customer is also high.
  #
